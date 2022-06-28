@@ -1,9 +1,18 @@
 import React from 'react'
-import UseStateHook from './hooks/UseStateHook';
+// import UseEffectHook from './hooks/UseEffectHook';
+// import UseRefHook from './hooks/UseRefHook';
+// import UseStateHook from './hooks/UseStateHook';
+
+
+import ChallengeOne from './challenge/ChallengeOne'
 const App = () => {
   return (
     <div>
-      <UseStateHook />
+      {/* <UseStateHook /> */}
+      {/* <UseEffectHook /> */}
+      {/* <UseRefHook /> */}
+
+      <ChallengeOne/>
     </div>
   )
 }
