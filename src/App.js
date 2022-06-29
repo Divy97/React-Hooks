@@ -5,6 +5,7 @@ import React from 'react'
 
 
 import ChallengeOne from './challenge/ChallengeOne'
+import ChallengeTwo from './challenge/ChallengeTwo'
 const App = () => {
   return (
     <div>
@@ -12,7 +13,8 @@ const App = () => {
       {/* <UseEffectHook /> */}
       {/* <UseRefHook /> */}
 
-      <ChallengeOne/>
+      {/* <ChallengeOne/> */}
+      <ChallengeTwo />
     </div>
   )
 }
