@@ -8,6 +8,7 @@ import ChallengeOne from './challenge/ChallengeOne'
 import ChallengeThree from './challenge/ChallengeThree'
 import ChallengeTwo from './challenge/ChallengeTwo'
 import ChallengeFour from './challenge/ChallengeFour';
+import ChallengeFive from './challenge/ChallengeFive';
 const App = () => {
   return (
     <div>
@@ -18,7 +19,8 @@ const App = () => {
       {/* <ChallengeOne/> */}
       {/* <ChallengeTwo /> */}
       {/* <ChallengeThree/> */}
-      <ChallengeFour />
+      {/* <ChallengeFour /> */}
+      <ChallengeFive />
     </div>
   )
 }
