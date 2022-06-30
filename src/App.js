@@ -4,12 +4,13 @@ import React from 'react'
 // import UseStateHook from './hooks/UseStateHook';
 
 
-import ChallengeOne from './challenge/ChallengeOne'
-import ChallengeThree from './challenge/ChallengeThree'
-import ChallengeTwo from './challenge/ChallengeTwo'
-import ChallengeFour from './challenge/ChallengeFour';
-import ChallengeFive from './challenge/ChallengeFive';
-import ChallengeSix from './challenge/ChallengeSix';
+// import ChallengeOne from './challenge/ChallengeOne'
+// import ChallengeThree from './challenge/ChallengeThree'
+// import ChallengeTwo from './challenge/ChallengeTwo'
+// import ChallengeFour from './challenge/ChallengeFour';
+// import ChallengeFive from './challenge/ChallengeFive';
+// import ChallengeSix from './challenge/ChallengeSix';
+import ChallengeSeven from './challenge/ChallengeSeven';
 const App = () => {
   return (
     <div>
@@ -22,7 +23,8 @@ const App = () => {
       {/* <ChallengeThree/> */}
       {/* <ChallengeFour /> */}
       {/* <ChallengeFive /> */}
-      <ChallengeSix />
+      {/* <ChallengeSix /> */}
+      <ChallengeSeven />
     </div>
   )
 }
