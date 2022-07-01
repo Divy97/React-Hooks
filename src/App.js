@@ -10,7 +10,9 @@ import React from 'react'
 // import ChallengeFour from './challenge/ChallengeFour';
 // import ChallengeFive from './challenge/ChallengeFive';
 // import ChallengeSix from './challenge/ChallengeSix';
-import ChallengeSeven from './challenge/ChallengeSeven';
+// import ChallengeSeven from './challenge/ChallengeSeven';
+// import ChallengeEight from './challenge/ChallengeEight';
+import ChallengeNine from './challenge/ChallengeNine';
 const App = () => {
   return (
     <div>
@@ -24,7 +26,9 @@ const App = () => {
       {/* <ChallengeFour /> */}
       {/* <ChallengeFive /> */}
       {/* <ChallengeSix /> */}
-      <ChallengeSeven />
+      {/* <ChallengeSeven /> */}
+      {/* <ChallengeEight /> */}
+      <ChallengeNine />
     </div>
   )
 }
